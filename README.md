@@ -1,2 +1,2 @@
 # Linked List Example
-Contains basic Java code for a Linked List
+Contains Java code for Linked Lists
